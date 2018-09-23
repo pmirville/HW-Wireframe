@@ -1,0 +1,120 @@
+/**
+ * Float Layout Activity
+ **/
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ebebeb;
+}
+
+nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ebebeb;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 495px;
+    height: 300px;
+    float: left;
+    color: #333;
+    background: #ebebeb;
+}
+
+
+aside {
+    padding: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 300px;
+    float: right;
+    color: #333;
+    background: #ebebeb;
+}
+
+footer {
+    padding: 20px;
+    margin-bottom: 20px;
+    clear: both;
+    color: #333;
+    background: #ebebeb;
+}
+
+article {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #ebebeb;
+    background-color: #777;
+}
+
+h1 {
+    color: #777;
+    background-color: #ebebeb
+}
+
+p {
+    color: #777;
+    background-color: #ebebeb;
+}
+
+/* #left {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #666;
+    float: left;
+    width: 33%;
+}
+
+#middle {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #888;
+    float: left;
+    width: 34%;
+}
+
+#right {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #666;
+    float: left;
+    width: 33%;
+}
+
+#full {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #eee;
+}
+
+#division {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #6ea3da;
+} */
